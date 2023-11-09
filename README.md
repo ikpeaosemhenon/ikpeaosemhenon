@@ -1,5 +1,4 @@
- 👋 Hi, I’m @ikpeaosemhenon
-<h1>Hi, I'm Osemehenon, an <a href="https://linkedin.com/in/osemhenon-ikpea-018090297/">IT Professional</a>☺</h1>
+ 👋 Hi, I’m @ikpeaosemhenon<a href="https://linkedin.com/in/osemhenon-ikpea-018090297/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
